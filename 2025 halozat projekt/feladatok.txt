@@ -1,0 +1,15 @@
+1. Ip táblázat
+2. Hálózat öszzerakása
+3. Címzési terv
+4. Prezentáció
+5. Árajánlat
+
+			1.TELEPHELY pl.:
+
+
+1. Központ	ip cim 		maszk
+   Publikus	ip cim		maszk
+   Belső Hálózat
+   Fix
+   Server
+   Nyomtató
